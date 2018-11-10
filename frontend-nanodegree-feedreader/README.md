@@ -1,5 +1,7 @@
-# Project Overwiew
-This is our RSS feed reader application. It uses the Googl Feed Reader API to grab RSS feeds as JSON object we can make use of. It also uses the Handlebars templating library and jQuery.
-# Run
-* Index.js
+# Feed Reader Project
+This project mainly focuses on testing javascript code using Jasmine. Testing is performed using different tests. Testing of our logic becomes important when you are adding any new feature in the application.
+## How To Run
+* Download the project repository.
+* Unzip it in your computer.
+* Open up index.html file.
  
